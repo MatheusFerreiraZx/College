@@ -1,7 +1,5 @@
 #Apresentação
-print("Seja bem vindo ao App de Vendas do Matheus Ferreira da Silva Nascimento,\n "
-"Registro Uninter: 4282406")
-
+print("Seja bem vindo ao App de Vendas do Matheus Ferreira da Silva Nascimento")
 #Variáveis
 ValorProduto = float(input("Digite o valor do produto: "))
 QtdProduto = int(input("Digite a quantidade de produtos: "))
