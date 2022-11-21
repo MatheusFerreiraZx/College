@@ -1,6 +1,5 @@
 #Apresentação
-print("Seja bem vindo ao App de Controle de Funcionários do Matheus Ferreira da Silva Nascimento,\n "
-"Registro Uninter: 4282406")
+print("Seja bem vindo ao App de Controle de Funcionários do Matheus Ferreira da Silva Nascimento")
 
 #Variáveis
 menu_da_mercearia = {
