@@ -1,5 +1,5 @@
 #Apresentação
-print("Seja bem vindo ao App de Controle de Funcionários do Matheus Ferreira da Silva Nascimento")
+print("Seja bem vindo ao App de Serviço de Limpeza do Matheus Ferreira da Silva Nascimento")
 
 #Função metragem da limpeza
 def metragem_limpeza():
