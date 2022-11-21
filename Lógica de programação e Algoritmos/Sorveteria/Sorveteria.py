@@ -1,6 +1,5 @@
 #Apresentação
-print("Seja bem vindo a Sorveteria do Matheus Ferreira da Silva Nascimento,\n "
-"Registro Uninter: 4282406")
+print("Seja bem vindo ao App de Sorveteria do Matheus Ferreira da Silva Nascimento")
 
 print("----------------------------------Carpádio---------------------------------------------------")
 print("Código | Descrição            | Tamanho P (500ml) | Tamanho M (1000ml) | Tamanho G (2000ml) |")
