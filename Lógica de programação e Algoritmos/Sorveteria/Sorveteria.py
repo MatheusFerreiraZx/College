@@ -1,12 +1,12 @@
 #Apresentação
 print("Seja bem vindo ao App de Sorveteria do Matheus Ferreira da Silva Nascimento")
 
-print("----------------------------------Carpádio---------------------------------------------------")
-print("Código | Descrição            | Tamanho P (500ml) | Tamanho M (1000ml) | Tamanho G (2000ml) |")
-print(" TR    | Sabores Tradicionais |      R$ 6,00      |      R$ 10,00      |     R$ 18,00       |")
-print(" ES    | Sabores Especiais    |      R$ 7,00      |      R$ 12,00      |     R$ 21,00       |")
-print(" PR    | Sabores Premium      |      R$ 8,00      |      R$ 14,00      |     R$ 24,00       |")
-print("---------------------------------------------------------------------------------------------")
+print("----------------------------------Carpádio---------------------------------------------------------------------------------------------")
+print("Código |  Descrição                  | Tamanho P (500ml) | Tamanho M (1000ml  |   Tamanho G (2000ml)        |")
+print(" TR       | Sabores Tradicionais |      R$ 6,00               |      R$ 10,00                |     R$ 18,00                         |")
+print(" ES       | Sabores Especiais     |      R$ 7,00               |      R$ 12,00                |     R$ 21,00                         |")
+print(" PR       | Sabores Premium      |      R$ 8,00               |      R$ 14,00                |     R$ 24,00                         |")
+print("--------------------------------------------------------------------------------------------------------------------------------------------")
 
 #Variáveis
 Tamanho = ["P", "M", "G"]
