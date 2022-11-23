@@ -1,12 +1,11 @@
 #Apresentação
-print("Seja bem vindo ao App de Serviço de Limpeza do Matheus Ferreira da Silva Nascimento")
+print("Seja bem vindo ao App de Serviço de Limpeza do Matheus Ferreira da Silva Nascimento\n")
 
 #Função metragem da limpeza
 def metragem_limpeza():
     metragem = input("Qual a metragem da porção a ser limpa? ")
 
     try:
-
         metragem = int(metragem)
         if not 30 <= metragem < 700:
             metragem_limpeza()
@@ -20,7 +19,6 @@ def metragem_limpeza():
             return valor_metragem
 
     except:
-
         metragem_limpeza()
 
 #Função tipo de limpeza
@@ -52,7 +50,7 @@ def adicional_limpeza():
     return aux
 
 
-# tabela adicionais
+#tabela adicionais
 
 Tipos_adicionais = {0: "Sem adicionais",
 

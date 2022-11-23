@@ -1,5 +1,5 @@
 #Apresentação
-print("Seja bem vindo ao App de Vendas do Matheus Ferreira da Silva Nascimento")
+print("Seja bem vindo ao App de Vendas do Matheus Ferreira da Silva Nascimento\n")
 
 #Variáveis
 ValorProduto = float(input("Digite o valor do produto: "))
