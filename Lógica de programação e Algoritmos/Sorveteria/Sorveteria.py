@@ -1,4 +1,4 @@
-#Apresentação
+# Apresentação
 print("Seja bem vindo ao App de Sorveteria do Matheus Ferreira da Silva Nascimento\n")
 
 print("----------------------------------Carpádio---------------------------------------------------------------------------------------------")
@@ -6,9 +6,9 @@ print("Código    |  Descrição           | Tamanho P (500ml)          |   Tama
 print(" TR       | Sabores Tradicionais |      R$ 6,00               |      R$ 10,00                |     R$ 18,00                         |")
 print(" ES       | Sabores Especiais    |      R$ 7,00               |      R$ 12,00                |     R$ 21,00                         |")
 print(" PR       | Sabores Premium      |      R$ 8,00               |      R$ 14,00                |     R$ 24,00                         |")
-print("--------------------------------------------------------------------------------------------------------------------------------------------")
+print("----------------------------------------------------------------------------------------------------------------------------------------")
 
-#Variáveis
+# Variáveis
 Tamanho = ["P", "M", "G"]
 
 Codigos = {"TR": [6.00, 10.00, 18.00],
@@ -19,7 +19,7 @@ Codigos = {"TR": [6.00, 10.00, 18.00],
 
 Compra = []
 
-#Condição
+# Condição
 while True:
 
     qual_tamanho = input("Qual o tamanho do sorvete desejado? ")
