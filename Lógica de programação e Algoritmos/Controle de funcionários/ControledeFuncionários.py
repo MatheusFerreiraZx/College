@@ -1,4 +1,4 @@
-print("Seja bem vindo ao App de Sorveteria do Matheus Ferreira da Silva Nascimento\n")
+print("Seja bem vindo ao App de Controle de Funcionários do Matheus Ferreira da Silva Nascimento")
 
 funcionarios_lista = []  # Inicialização de uma lista vazia que ira receber os dicionários na função cadastrar
 
