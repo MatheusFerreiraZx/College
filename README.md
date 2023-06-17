@@ -1,2 +1,2 @@
 # Faculdade
-Repositório de ativdades e projetos da faculdade.
+Repositório de atividades e projetos da faculdade.
